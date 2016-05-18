@@ -1,0 +1,37 @@
+git status
+
+cd Predix-HelloWorld-WebApp
+git pull origin develop
+cd asset-bootstrap
+git pull origin develop
+cd ../ext-interface
+git pull origin develop 
+cd ../timeseries-bootstrap
+git pull origin develop
+cd ../predix-microservice-cf-jsr
+git pull origin develop
+cd ../predix-microservice-cf-spring
+git pull origin develop
+cd ../predix-rest-client
+git pull origin develop
+cd ../predix-websocket-client
+git pull origin develop
+cd ../data-seed-service
+git pull origin develop
+cd ../dataingestion-service
+git pull origin develop
+cd ../machinedata-simulator
+git pull origin develop
+cd ../rmd-datasource
+git pull origin develop
+cd ../fdh-router-service
+git pull origin develop
+cd ../rmd-analytics
+git pull origin develop
+cd ../rmd-orchestration
+git pull origin develop
+cd ../rmd-ref-app-ui
+git pull origin develop
+cd ../predix-websocket-server
+git pull origin develop
+
