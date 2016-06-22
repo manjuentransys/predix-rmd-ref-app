@@ -23,8 +23,8 @@
     <servers>
         <server>
             <id>predix.repo</id>
-            <username>your.predix.io.username</username>
-            <password>your.encrypted.password</password> <!-- Obtained from https://artifactory.predix.io -->
+            <username>Manjuentransys</username>
+            <password>manjunath123</password> <!-- Obtained from https://artifactory.predix.io -->
         </server>
     </servers>
 
